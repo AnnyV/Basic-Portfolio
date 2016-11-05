@@ -197,7 +197,7 @@ width: 90%;
 /*line-height: 1.5px; */
 
  }
- .textarea {
+ textarea {
     width: 100%;
     height: 150px;
     /*padding: 12px 20px;*/
@@ -213,6 +213,9 @@ input {
     /*float: left;*/
     width: 100%;
     margin-right: 30px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
 
 }
 #summit{
