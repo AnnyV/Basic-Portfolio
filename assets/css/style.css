@@ -71,7 +71,7 @@ nav {
     float: left;
     margin-left: 150px;
 
-    margin-bottom: 150px;
+    margin-bottom: 30px;
 }
 
 
@@ -178,7 +178,6 @@ footer {
     padding: 30px;
     margin-bottom: 30px;
     color: white;
-    position: absolute;
 }
 
 /*div {
